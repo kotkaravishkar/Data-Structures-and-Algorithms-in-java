@@ -12,7 +12,8 @@ public class PrefixSum {
             pref[i] = arr[i]+arr[i-1];
         }
         for (int i = 0; i <n ; i++) {
-            System.out.print(pref[i]);
+            System.out.print(pref[i]+ " ");
+
         }
     }
 }
