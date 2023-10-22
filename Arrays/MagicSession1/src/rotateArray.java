@@ -23,9 +23,9 @@ import java.util.Arrays;
 
 public class rotateArray {
     public static void main(String[] args) {
-        int k = 5;
+        int k = 2;
         int nums[] = {6, -3, -10, 0, 2};
-        rotate(nums,5);
+        rotate(nums,2);
         System.out.println(Arrays.toString(nums));
     }
     public static void rotate(int[] nums, int k) {
