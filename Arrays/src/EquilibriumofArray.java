@@ -29,20 +29,4 @@ public class EquilibriumofArray {
         }
     // Optimized Approach
     }
-
-    static int EQ(int []arr){
-        int n = arr.length;
-
-        for (int i = 0; i < n; i++) {
-
-            int lefsum =0;
-            int rightsum =0;
-
-
-        }
-
-
-
-        return -1;
-    }
 }
