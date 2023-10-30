@@ -3,10 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Assignment-01/Assignment-01.iml" filepath="$PROJECT_DIR$/Recursion/Assignment-01/Assignment-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Assignment-02/Assignment-02.iml" filepath="$PROJECT_DIR$/Arrays/Assignment-02/Assignment-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Assignment-SubArrays/Assignment-SubArrays.iml" filepath="$PROJECT_DIR$/Arrays/Assignment-SubArrays/Assignment-SubArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/MagicSession1/MagicSession1.iml" filepath="$PROJECT_DIR$/Arrays/MagicSession1/MagicSession1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
     </modules>
   </component>
 </project>
