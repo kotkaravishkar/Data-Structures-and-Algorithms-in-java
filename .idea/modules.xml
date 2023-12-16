@@ -8,8 +8,10 @@
       <module fileurl="file://$PROJECT_DIR$/Recursion/Assignment-2/Assignment-2.iml" filepath="$PROJECT_DIR$/Recursion/Assignment-2/Assignment-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Assignment-SubArrays/Assignment-SubArrays.iml" filepath="$PROJECT_DIR$/Arrays/Assignment-SubArrays/Assignment-SubArrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/MagicSession1/MagicSession1.iml" filepath="$PROJECT_DIR$/Arrays/MagicSession1/MagicSession1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting-Assignments/Sorting-Assignments.iml" filepath="$PROJECT_DIR$/Sorting-Assignments/Sorting-Assignments.iml" />
     </modules>
   </component>
 </project>
