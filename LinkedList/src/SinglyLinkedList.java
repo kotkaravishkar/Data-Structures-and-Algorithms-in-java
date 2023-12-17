@@ -1,5 +1,5 @@
-public class SinglyLinkedList{
-    public static void main(String[] args) {
+/*public class SinglyLinkedList{
+   public static void main(String[] args) {
 
         LinkedList ll = new LinkedList();
 
@@ -22,6 +22,7 @@ public class SinglyLinkedList{
 
     }
 }
+
 class Node{
     int data ;
     Node next = null;
@@ -162,4 +163,4 @@ class LinkedList{
                  temp.next = temp.next.next;
              }
          }
-    }
+    } */
