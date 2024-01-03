@@ -144,7 +144,6 @@ class Queue {
         }
         return false;
     }
-
     public int dequeue() {
         if (front ==-1){
         System.out.println("Queue is Empty");
