@@ -2,10 +2,8 @@ import java.util.Stack;
 
 public class ImmediateSmaller {
     public static void main(String[] args) {
-        int arr[] = {4, 2, 1, 5, 3};
-
+        int arr[] = {4,7,8,2,3,1};
         Smaller(arr);
-
     }
 
     static void Smaller(int [] arr){
